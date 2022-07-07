@@ -1,0 +1,11 @@
+apikey
+password
+user
+jdbc:
+select 
+insert 
+update 
+eval(
+include(
+from 
+url
